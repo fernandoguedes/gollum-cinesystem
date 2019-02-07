@@ -4,6 +4,7 @@ const fastify = require('fastify')({
 
 const routes = require('./routes')
 const swagger = require('./swagger')
+const PORT = process.env.PORT || 3000
 
 fastify.register(require('fastify-swagger'), swagger.options)
 
@@ -13,7 +14,7 @@ routes.forEach((route, index) => {
 
 const start = async () => {
   try {
-    await fastify.listen(3000)
+    await fastify.listen(PORT)
     fastify.swagger()
     fastify.log.info(`server listening on ${fastify.server.address().port}`)
   } catch (err) {
