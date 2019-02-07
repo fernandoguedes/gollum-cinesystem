@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/fernandoguedes/gollum-cinesystem/issues"
   },
-  "homepage": "https://github.com/fernandoguedes/gollum-cinesystem#readme"
+  "homepage": "https://github.com/fernandoguedes/gollum-cinesystem#readme",
+  "engines": {
+    "node": "8.11.3"
+  }
 }
