@@ -1,0 +1,8 @@
+{
+  "name": "Gollum // Cinesystem",
+  "description": "Cinesystem Scraper",
+  "repository": "https://github.com/fernandoguedes/gollum-cinesystem",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": [],
+  "image": "heroku/nodejs"
+}
