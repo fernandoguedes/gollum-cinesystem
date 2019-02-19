@@ -22,9 +22,14 @@ const _parseData = (json) => {
   })
 }
 
+const getTodayDate = () => {
+  let today = new Date()
+  return `${today.getFullYear()}/${today.getMonth() + 1}/${today.getDate()}`
+}
+
 const getByCity = async (city) => {
   try {
-    const response = await got('https://api-content.ingresso.com/v0/sessions/city/68/theater/437?partnership=&date=2019-02-07')
+    const response = await got(`https://api-content.ingresso.com/v0/sessions/city/68/theater/437?partnership=&date=${getTodayDate()}`)
 
     return _parseData(JSON.parse(response.body))
   } catch (error) {

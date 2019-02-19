@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/fernandoguedes/gollum-cinesystem#readme",
   "engines": {
-    "node": "8.11.3"
+    "node": "10.x"
   }
 }
