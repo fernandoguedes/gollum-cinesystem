@@ -1,0 +1,1476 @@
+[
+  {
+    "name": "Acre",
+    "uf": "AC",
+    "cities": [
+      {
+        "id": "364",
+        "name": "Rio Branco",
+        "uf": "AC",
+        "state": "Acre",
+        "urlKey": "rio-branco",
+        "timeZone": "America/Rio_Branco"
+      }
+    ]
+  },
+  {
+    "name": "Alagoas",
+    "uf": "AL",
+    "cities": [
+      {
+        "id": "381",
+        "name": "Arapiraca",
+        "uf": "AL",
+        "state": "Alagoas",
+        "urlKey": "arapiraca",
+        "timeZone": "America/Maceio"
+      },
+      {
+        "id": "53",
+        "name": "Maceió",
+        "uf": "AL",
+        "state": "Alagoas",
+        "urlKey": "maceio",
+        "timeZone": "America/Maceio"
+      }
+    ]
+  },
+  {
+    "name": "Amazonas",
+    "uf": "AM",
+    "cities": [
+      {
+        "id": "35",
+        "name": "Manaus",
+        "uf": "AM",
+        "state": "Amazonas",
+        "urlKey": "manaus",
+        "timeZone": "America/Manaus"
+      }
+    ]
+  },
+  {
+    "name": "Amapá",
+    "uf": "AP",
+    "cities": [
+      {
+        "id": "303",
+        "name": "Macapá",
+        "uf": "AP",
+        "state": "Amapá",
+        "urlKey": "macapa",
+        "timeZone": "America/Belem"
+      }
+    ]
+  },
+  {
+    "name": "Bahia",
+    "uf": "BA",
+    "cities": [
+      {
+        "id": "453",
+        "name": "Camaçari",
+        "uf": "BA",
+        "state": "Bahia",
+        "urlKey": "camacari",
+        "timeZone": "America/Bahia"
+      },
+      {
+        "id": "462",
+        "name": "Eunápolis",
+        "uf": "BA",
+        "state": "Bahia",
+        "urlKey": "eunapolis",
+        "timeZone": "America/Bahia"
+      },
+      {
+        "id": "88",
+        "name": "Feira de Santana",
+        "uf": "BA",
+        "state": "Bahia",
+        "urlKey": "feira-de-santana",
+        "timeZone": "America/Bahia"
+      },
+      {
+        "id": "280",
+        "name": "Juazeiro",
+        "uf": "BA",
+        "state": "Bahia",
+        "urlKey": "juazeiro",
+        "timeZone": "America/Bahia"
+      },
+      {
+        "id": "3",
+        "name": "Salvador",
+        "uf": "BA",
+        "state": "Bahia",
+        "urlKey": "salvador",
+        "timeZone": "America/Bahia"
+      },
+      {
+        "id": "440",
+        "name": "Serrinha",
+        "uf": "BA",
+        "state": "Bahia",
+        "urlKey": "serrinha",
+        "timeZone": "America/Bahia"
+      },
+      {
+        "id": "96",
+        "name": "Vitória da Conquista",
+        "uf": "BA",
+        "state": "Bahia",
+        "urlKey": "vitoria-da-conquista",
+        "timeZone": "America/Bahia"
+      }
+    ]
+  },
+  {
+    "name": "Ceará",
+    "uf": "CE",
+    "cities": [
+      {
+        "id": "36",
+        "name": "Fortaleza",
+        "uf": "CE",
+        "state": "Ceará",
+        "urlKey": "fortaleza",
+        "timeZone": "America/Fortaleza"
+      },
+      {
+        "id": "450",
+        "name": "Juazeiro do Norte",
+        "uf": "CE",
+        "state": "Ceará",
+        "urlKey": "juazeiro-do-norte",
+        "timeZone": "America/Fortaleza"
+      },
+      {
+        "id": "312",
+        "name": "Maracanaú",
+        "uf": "CE",
+        "state": "Ceará",
+        "urlKey": "maracanau",
+        "timeZone": "America/Fortaleza"
+      },
+      {
+        "id": "455",
+        "name": "Maranguape",
+        "uf": "CE",
+        "state": "Ceará",
+        "urlKey": "maranguape",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Distrito Federal",
+    "uf": "DF",
+    "cities": [
+      {
+        "id": "12",
+        "name": "Brasília",
+        "uf": "DF",
+        "state": "Distrito Federal",
+        "urlKey": "brasilia",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "113",
+        "name": "Taguatinga",
+        "uf": "DF",
+        "state": "Distrito Federal",
+        "urlKey": "taguatinga",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Espírito Santo",
+    "uf": "ES",
+    "cities": [
+      {
+        "id": "114",
+        "name": "Cariacica",
+        "uf": "ES",
+        "state": "Espírito Santo",
+        "urlKey": "cariacica",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "464",
+        "name": "Linhares",
+        "uf": "ES",
+        "state": "Espírito Santo",
+        "urlKey": "linhares",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "115",
+        "name": "Serra",
+        "uf": "ES",
+        "state": "Espírito Santo",
+        "urlKey": "serra",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "10",
+        "name": "Vila Velha",
+        "uf": "ES",
+        "state": "Espírito Santo",
+        "urlKey": "vila-velha",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "11",
+        "name": "Vitória",
+        "uf": "ES",
+        "state": "Espírito Santo",
+        "urlKey": "vitoria",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Goiás",
+    "uf": "GO",
+    "cities": [
+      {
+        "id": "296",
+        "name": "Aparecida de Goiânia",
+        "uf": "GO",
+        "state": "Goiás",
+        "urlKey": "aparecida-de-goiania",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "15",
+        "name": "Goiânia",
+        "uf": "GO",
+        "state": "Goiás",
+        "urlKey": "goiania",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Maranhão",
+    "uf": "MA",
+    "cities": [
+      {
+        "id": "376",
+        "name": "Imperatriz",
+        "uf": "MA",
+        "state": "Maranhão",
+        "urlKey": "imperatriz",
+        "timeZone": "America/Fortaleza"
+      },
+      {
+        "id": "19",
+        "name": "São Luís",
+        "uf": "MA",
+        "state": "Maranhão",
+        "urlKey": "sao-luis",
+        "timeZone": "America/Fortaleza"
+      }
+    ]
+  },
+  {
+    "name": "Minas Gerais",
+    "uf": "MG",
+    "cities": [
+      {
+        "id": "21",
+        "name": "Belo Horizonte",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "belo-horizonte",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "120",
+        "name": "Betim",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "betim",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "451",
+        "name": "Caeté",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "caete",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "460",
+        "name": "Cambuí",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "cambui",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "122",
+        "name": "Contagem",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "contagem",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "372",
+        "name": "Ipatinga",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "ipatinga",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "119",
+        "name": "Juiz de Fora",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "juiz-de-fora",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "40",
+        "name": "Poços de Caldas",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "pocos-de-caldas",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "378",
+        "name": "Pouso Alegre",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "pouso-alegre",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "285",
+        "name": "Sete Lagoas",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "sete-lagoas",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "24",
+        "name": "Uberaba",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "uberaba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "23",
+        "name": "Uberlândia",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "uberlandia",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "448",
+        "name": "Varginha",
+        "uf": "MG",
+        "state": "Minas Gerais",
+        "urlKey": "varginha",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Mato Grosso do Sul",
+    "uf": "MS",
+    "cities": [
+      {
+        "id": "47",
+        "name": "Campo Grande",
+        "uf": "MS",
+        "state": "Mato Grosso do Sul",
+        "urlKey": "campo-grande",
+        "timeZone": "America/Campo_Grande"
+      },
+      {
+        "id": "57",
+        "name": "Dourados",
+        "uf": "MS",
+        "state": "Mato Grosso do Sul",
+        "urlKey": "dourados",
+        "timeZone": "America/Campo_Grande"
+      }
+    ]
+  },
+  {
+    "name": "Mato Grosso",
+    "uf": "MT",
+    "cities": [
+      {
+        "id": "28",
+        "name": "Cuiabá",
+        "uf": "MT",
+        "state": "Mato Grosso",
+        "urlKey": "cuiaba",
+        "timeZone": "America/Cuiaba"
+      },
+      {
+        "id": "437",
+        "name": "Varzea Grande",
+        "uf": "MT",
+        "state": "Mato Grosso",
+        "urlKey": "varzea-grande",
+        "timeZone": "America/Cuiaba"
+      }
+    ]
+  },
+  {
+    "name": "Pará",
+    "uf": "PA",
+    "cities": [
+      {
+        "id": "397",
+        "name": "Ananindeua",
+        "uf": "PA",
+        "state": "Pará",
+        "urlKey": "ananindeua",
+        "timeZone": "America/Belem"
+      },
+      {
+        "id": "52",
+        "name": "Belém",
+        "uf": "PA",
+        "state": "Pará",
+        "urlKey": "belem",
+        "timeZone": "America/Belem"
+      },
+      {
+        "id": "371",
+        "name": "Castanhal",
+        "uf": "PA",
+        "state": "Pará",
+        "urlKey": "castanhal",
+        "timeZone": "America/Belem"
+      },
+      {
+        "id": "382",
+        "name": "Marabá",
+        "uf": "PA",
+        "state": "Pará",
+        "urlKey": "maraba",
+        "timeZone": "America/Belem"
+      },
+      {
+        "id": "446",
+        "name": "Santarém",
+        "uf": "PA",
+        "state": "Pará",
+        "urlKey": "santarem",
+        "timeZone": "America/Belem"
+      }
+    ]
+  },
+  {
+    "name": "Paraíba",
+    "uf": "PB",
+    "cities": [
+      {
+        "id": "32",
+        "name": "João Pessoa",
+        "uf": "PB",
+        "state": "Paraíba",
+        "urlKey": "joao-pessoa",
+        "timeZone": "America/Fortaleza"
+      }
+    ]
+  },
+  {
+    "name": "Pernambuco",
+    "uf": "PE",
+    "cities": [
+      {
+        "id": "370",
+        "name": "Cabo de Santo Agostinho",
+        "uf": "PE",
+        "state": "Pernambuco",
+        "urlKey": "cabo-de-santo-agostinho",
+        "timeZone": "America/Recife"
+      },
+      {
+        "id": "380",
+        "name": "Caruaru",
+        "uf": "PE",
+        "state": "Pernambuco",
+        "urlKey": "caruaru",
+        "timeZone": "America/Recife"
+      },
+      {
+        "id": "54",
+        "name": "Jaboatão dos Guararapes",
+        "uf": "PE",
+        "state": "Pernambuco",
+        "urlKey": "jaboatao-dos-guararapes",
+        "timeZone": "America/Recife"
+      },
+      {
+        "id": "422",
+        "name": "Olinda",
+        "uf": "PE",
+        "state": "Pernambuco",
+        "urlKey": "olinda",
+        "timeZone": "America/Recife"
+      },
+      {
+        "id": "425",
+        "name": "Paulista",
+        "uf": "PE",
+        "state": "Pernambuco",
+        "urlKey": "paulista",
+        "timeZone": "America/Recife"
+      },
+      {
+        "id": "426",
+        "name": "Petrolina",
+        "uf": "PE",
+        "state": "Pernambuco",
+        "urlKey": "petrolina",
+        "timeZone": "America/Recife"
+      },
+      {
+        "id": "22",
+        "name": "Recife",
+        "uf": "PE",
+        "state": "Pernambuco",
+        "urlKey": "recife",
+        "timeZone": "America/Recife"
+      }
+    ]
+  },
+  {
+    "name": "Piauí",
+    "uf": "PI",
+    "cities": [
+      {
+        "id": "435",
+        "name": "Teresina",
+        "uf": "PI",
+        "state": "Piauí",
+        "urlKey": "teresina",
+        "timeZone": "America/Fortaleza"
+      }
+    ]
+  },
+  {
+    "name": "Paraná",
+    "uf": "PR",
+    "cities": [
+      {
+        "id": "443",
+        "name": "Campo Largo",
+        "uf": "PR",
+        "state": "Paraná",
+        "urlKey": "campo-largo",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "444",
+        "name": "Castro",
+        "uf": "PR",
+        "state": "Paraná",
+        "urlKey": "castro",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "18",
+        "name": "Curitiba",
+        "uf": "PR",
+        "state": "Paraná",
+        "urlKey": "curitiba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "133",
+        "name": "Foz do Iguaçu",
+        "uf": "PR",
+        "state": "Paraná",
+        "urlKey": "foz-do-iguacu",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "58",
+        "name": "Londrina",
+        "uf": "PR",
+        "state": "Paraná",
+        "urlKey": "londrina",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "67",
+        "name": "Maringá",
+        "uf": "PR",
+        "state": "Paraná",
+        "urlKey": "maringa",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "65",
+        "name": "Paranaguá",
+        "uf": "PR",
+        "state": "Paraná",
+        "urlKey": "paranagua",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "60",
+        "name": "Ponta Grossa",
+        "uf": "PR",
+        "state": "Paraná",
+        "urlKey": "ponta-grossa",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "345",
+        "name": "São José dos Pinhais",
+        "uf": "PR",
+        "state": "Paraná",
+        "urlKey": "sao-jose-dos-pinhais",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Rio de Janeiro",
+    "uf": "RJ",
+    "cities": [
+      {
+        "id": "287",
+        "name": "Angra dos Reis",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "angra-dos-reis",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "369",
+        "name": "Barra do Piraí",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "barra-do-pirai",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "359",
+        "name": "Barra Mansa",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "barra-mansa",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "374",
+        "name": "Cabo Frio",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "cabo-frio",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "362",
+        "name": "Campos dos Goytacazes",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "campos-dos-goytacazes",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "69",
+        "name": "Duque de Caxias",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "duque-de-caxias",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "289",
+        "name": "Itaboraí",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "itaborai",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "458",
+        "name": "Itaperuna",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "itaperuna",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "294",
+        "name": "Macaé",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "macae",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "31",
+        "name": "Niterói",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "niteroi",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "38",
+        "name": "Nova Friburgo",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "nova-friburgo",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "283",
+        "name": "Nova Iguaçu",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "nova-iguacu",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "459",
+        "name": "Paracambi",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "paracambi",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "20",
+        "name": "Petrópolis",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "petropolis",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "360",
+        "name": "Resende",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "resende",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "2",
+        "name": "Rio de Janeiro",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "rio-de-janeiro",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "33",
+        "name": "São Gonçalo",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "sao-goncalo",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "284",
+        "name": "São João de Meriti",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "sao-joao-de-meriti",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "29",
+        "name": "Teresópolis",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "teresopolis",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "385",
+        "name": "Três Rios",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "tres-rios",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "445",
+        "name": "Valença",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "valenca",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "457",
+        "name": "Vassouras",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "vassouras",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "286",
+        "name": "Volta Redonda",
+        "uf": "RJ",
+        "state": "Rio de Janeiro",
+        "urlKey": "volta-redonda",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Rio Grande do Norte",
+    "uf": "RN",
+    "cities": [
+      {
+        "id": "48",
+        "name": "Natal",
+        "uf": "RN",
+        "state": "Rio Grande do Norte",
+        "urlKey": "natal",
+        "timeZone": "America/Fortaleza"
+      }
+    ]
+  },
+  {
+    "name": "Rondônia",
+    "uf": "RO",
+    "cities": [
+      {
+        "id": "347",
+        "name": "Porto Velho",
+        "uf": "RO",
+        "state": "Rondônia",
+        "urlKey": "porto-velho",
+        "timeZone": "America/Porto_Velho"
+      }
+    ]
+  },
+  {
+    "name": "Roraima",
+    "uf": "RR",
+    "cities": [
+      {
+        "id": "441",
+        "name": "Boa Vista",
+        "uf": "RR",
+        "state": "Roraima",
+        "urlKey": "boa-vista",
+        "timeZone": "America/Boa_Vista"
+      }
+    ]
+  },
+  {
+    "name": "Rio Grande do Sul",
+    "uf": "RS",
+    "cities": [
+      {
+        "id": "8",
+        "name": "Canoas",
+        "uf": "RS",
+        "state": "Rio Grande do Sul",
+        "urlKey": "canoas",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "7",
+        "name": "Caxias do Sul",
+        "uf": "RS",
+        "state": "Rio Grande do Sul",
+        "urlKey": "caxias-do-sul",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "13",
+        "name": "Novo Hamburgo",
+        "uf": "RS",
+        "state": "Rio Grande do Sul",
+        "urlKey": "novo-hamburgo",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "351",
+        "name": "Passo Fundo",
+        "uf": "RS",
+        "state": "Rio Grande do Sul",
+        "urlKey": "passo-fundo",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "5",
+        "name": "Porto Alegre",
+        "uf": "RS",
+        "state": "Rio Grande do Sul",
+        "urlKey": "porto-alegre",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "416",
+        "name": "Rio Grande",
+        "uf": "RS",
+        "state": "Rio Grande do Sul",
+        "urlKey": "rio-grande",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "461",
+        "name": "Santa Maria",
+        "uf": "RS",
+        "state": "Rio Grande do Sul",
+        "urlKey": "santa-maria",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "55",
+        "name": "São Leopoldo",
+        "uf": "RS",
+        "state": "Rio Grande do Sul",
+        "urlKey": "sao-leopoldo",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Santa Catarina",
+    "uf": "SC",
+    "cities": [
+      {
+        "id": "290",
+        "name": "Balneário Camboriu",
+        "uf": "SC",
+        "state": "Santa Catarina",
+        "urlKey": "balneario-camboriu",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "17",
+        "name": "Blumenau",
+        "uf": "SC",
+        "state": "Santa Catarina",
+        "urlKey": "blumenau",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "308",
+        "name": "Criciúma",
+        "uf": "SC",
+        "state": "Santa Catarina",
+        "urlKey": "criciuma",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "68",
+        "name": "Florianópolis",
+        "uf": "SC",
+        "state": "Santa Catarina",
+        "urlKey": "florianopolis",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "16",
+        "name": "Joinville",
+        "uf": "SC",
+        "state": "Santa Catarina",
+        "urlKey": "joinville",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "302",
+        "name": "Lages",
+        "uf": "SC",
+        "state": "Santa Catarina",
+        "urlKey": "lages",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "454",
+        "name": "Mafra",
+        "uf": "SC",
+        "state": "Santa Catarina",
+        "urlKey": "mafra",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "153",
+        "name": "São José",
+        "uf": "SC",
+        "state": "Santa Catarina",
+        "urlKey": "sao-jose",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "356",
+        "name": "Tubarão",
+        "uf": "SC",
+        "state": "Santa Catarina",
+        "urlKey": "tubarao",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Sergipe",
+    "uf": "SE",
+    "cities": [
+      {
+        "id": "4",
+        "name": "Aracaju",
+        "uf": "SE",
+        "state": "Sergipe",
+        "urlKey": "aracaju",
+        "timeZone": "America/Maceio"
+      }
+    ]
+  },
+  {
+    "name": "São Paulo",
+    "uf": "SP",
+    "cities": [
+      {
+        "id": "83",
+        "name": "Araçatuba",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "aracatuba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "161",
+        "name": "Araraquara",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "araraquara",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "162",
+        "name": "Atibaia",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "atibaia",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "167",
+        "name": "Barretos",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "barretos",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "51",
+        "name": "Barueri",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "barueri",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "56",
+        "name": "Bauru",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "bauru",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "175",
+        "name": "Bragança Paulista",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "braganca-paulista",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "349",
+        "name": "Brotas",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "brotas",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "14",
+        "name": "Campinas",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "campinas",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "383",
+        "name": "Caraguatatuba",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "caraguatatuba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "71",
+        "name": "Carapicuíba",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "carapicuiba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "76",
+        "name": "Cotia",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "cotia",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "82",
+        "name": "Diadema",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "diadema",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "192",
+        "name": "Franca",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "franca",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "456",
+        "name": "Guararema",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "guararema",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "34",
+        "name": "Guarulhos",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "guarulhos",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "195",
+        "name": "Hortolândia",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "hortolandia",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "375",
+        "name": "Indaiatuba",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "indaiatuba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "75",
+        "name": "Itapevi",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "itapevi",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "204",
+        "name": "Itaquaquecetuba",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "itaquaquecetuba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "205",
+        "name": "Itatiba",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "itatiba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "291",
+        "name": "Itu",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "itu",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "208",
+        "name": "Jaboticabal",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "jaboticabal",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "41",
+        "name": "Jacarei",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "jacarei",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "209",
+        "name": "Jaú",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "jau",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "210",
+        "name": "Jundiaí",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "jundiai",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "213",
+        "name": "Limeira",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "limeira",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "37",
+        "name": "Marília",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "marilia",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "79",
+        "name": "Mauá",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "maua",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "220",
+        "name": "Mogi das Cruzes",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "mogi-das-cruzes",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "373",
+        "name": "Mogi Guaçu",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "mogi-guacu",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "42",
+        "name": "Osasco",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "osasco",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "379",
+        "name": "Pindamonhangaba",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "pindamonhangaba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "59",
+        "name": "Piracicaba",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "piracicaba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "44",
+        "name": "Praia Grande",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "praia-grande",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "244",
+        "name": "Presidente Prudente",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "presidente-prudente",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "27",
+        "name": "Ribeirão Preto",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "ribeirao-preto",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "249",
+        "name": "Santa Bárbara Do Oeste",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "santa-barbara-do-oeste",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "45",
+        "name": "Santo André",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "santo-andre",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "50",
+        "name": "Santos",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "santos",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "43",
+        "name": "São Bernardo do Campo",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "sao-bernardo-do-campo",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "81",
+        "name": "São Caetano do Sul",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "sao-caetano-do-sul",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "61",
+        "name": "São Carlos",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "sao-carlos",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "62",
+        "name": "São José do Rio Preto",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "sao-jose-do-rio-preto",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "46",
+        "name": "São José dos Campos",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "sao-jose-dos-campos",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "1",
+        "name": "São Paulo",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "sao-paulo",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "463",
+        "name": "São Roque",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "sao-roque",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "66",
+        "name": "Sorocaba",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "sorocaba",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "279",
+        "name": "Suzano",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "suzano",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "63",
+        "name": "Taboão da Serra",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "taboao-da-serra",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "465",
+        "name": "Tatuí",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "tatui",
+        "timeZone": "America/Sao_Paulo"
+      },
+      {
+        "id": "268",
+        "name": "Taubaté",
+        "uf": "SP",
+        "state": "São Paulo",
+        "urlKey": "taubate",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  },
+  {
+    "name": "Tocantins",
+    "uf": "TO",
+    "cities": [
+      {
+        "id": "363",
+        "name": "Palmas",
+        "uf": "TO",
+        "state": "Tocantins",
+        "urlKey": "palmas",
+        "timeZone": "America/Araguaina"
+      }
+    ]
+  }
+]
