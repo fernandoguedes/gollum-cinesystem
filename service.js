@@ -1,4 +1,5 @@
 const got = require('got')
+const states = require('./data/cities.json')
 
 const _parseSessions = (sessions) => {
   return sessions.map(session => {
@@ -37,6 +38,27 @@ const getByCity = async (city) => {
   }
 }
 
+const _parseCitiesFromStates = (states) => {
+  let cities = states.map(state => {
+    return state.cities.map(city => {
+      return city
+    })
+  })
+
+  cities = cities.reduce((a, b) => a.concat(b))
+
+  return cities
+}
+
+const getCities = () => {
+  try {
+    return _parseCitiesFromStates(states)
+  } catch (error) {
+    throw error
+  }
+}
+
 module.exports = {
-  getByCity
+  getByCity,
+  getCities
 }

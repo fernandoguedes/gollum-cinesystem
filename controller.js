@@ -8,3 +8,11 @@ exports.getByCity = async (request, reply) => {
     throw boom.boomify(error)
   }
 }
+
+exports.getCities = async (request, reply) => {
+  try {
+    return service.getCities()
+  } catch (error) {
+    throw boom.boomify(error)
+  }
+}
