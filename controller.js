@@ -16,3 +16,11 @@ exports.getCities = async (request, reply) => {
     throw boom.boomify(error)
   }
 }
+
+exports.getStates = async (request, reply) => {
+  try {
+    return service.getStates()
+  } catch (error) {
+    throw boom.boomify(error)
+  }
+}

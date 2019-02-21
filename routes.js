@@ -11,7 +11,11 @@ const routes = [
     url: '/cities',
     handler: controller.getCities
   },
-
+  {
+    method: 'GET',
+    url: '/states',
+    handler: controller.getStates
+  },
 ]
 
 module.exports = routes

@@ -58,7 +58,27 @@ const getCities = () => {
   }
 }
 
+const _parseStates = (states) => {
+  let statesAcronyms = states.map(state => {
+    return {
+      name: state.name,
+      uf: state.uf
+    }
+  })
+
+  return statesAcronyms
+}
+
+const getStates = () => {
+  try {
+    return _parseStates(states)
+  } catch (error) {
+    throw error
+  }
+}
+
 module.exports = {
   getByCity,
-  getCities
+  getCities,
+  getStates
 }
