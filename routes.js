@@ -13,6 +13,11 @@ const routes = [
   },
   {
     method: 'GET',
+    url: '/cities/:uf',
+    handler: controller.getCitiesByState
+  },
+  {
+    method: 'GET',
     url: '/states',
     handler: controller.getStates
   },

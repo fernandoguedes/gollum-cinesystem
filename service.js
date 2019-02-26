@@ -64,7 +64,7 @@ const _parseStates = (states) => {
       name: state.name,
       uf: state.uf
     }
-  })
+  }).sort((a, b) => a.name.localeCompare(b.name))
 
   return statesAcronyms
 }
@@ -77,8 +77,28 @@ const getStates = () => {
   }
 }
 
+const _parseCitiesByState = (uf, cities) => {
+  let citiesByUf = cities.filter(city => {
+    if (city.state.toLowerCase() == uf.toLowerCase()) {
+      return city
+    }
+  })
+
+  return citiesByUf
+}
+
+const getCitiesByState = (uf) => {
+  try {
+    return _parseCitiesByState(uf, getCities(states))
+  } catch (error) {
+    throw error
+  }
+
+}
+
 module.exports = {
   getByCity,
   getCities,
+  getCitiesByState,
   getStates
 }

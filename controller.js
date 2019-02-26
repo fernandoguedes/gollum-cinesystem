@@ -17,6 +17,14 @@ exports.getCities = async (request, reply) => {
   }
 }
 
+exports.getCitiesByState = async (request, reply) => {
+  try {
+    return service.getCitiesByState(request.params.uf)
+  } catch (error) {
+    throw boom.boomify(error)
+  }
+}
+
 exports.getStates = async (request, reply) => {
   try {
     return service.getStates()
