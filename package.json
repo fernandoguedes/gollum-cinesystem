@@ -7,7 +7,7 @@
     "boom": "^7.3.0",
     "fastify": "^1.14.1",
     "fastify-swagger": "^1.2.0",
-    "got": "^9.6.0"
+    "got": "^12.5.3"
   },
   "devDependencies": {
     "nodemon": "^1.18.9",
